@@ -1,1 +1,15 @@
+# node_modules は必ず除外
 node_modules/
+
+# Playwrightのレポート出力フォルダ
+playwright-report/
+
+# テスト結果（出力先があれば）
+test-results/
+results/
+
+# macOSの不要ファイル
+.DS_Store
+
+# ログファイル全般
+*.log
