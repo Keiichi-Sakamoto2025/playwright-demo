@@ -1,0 +1,75 @@
+{
+  "cookies": [
+    {
+      "name": "CognitoIdentityServiceProvider.594emb98hnb91e6qj20j3ih52l.LastAuthUser",
+      "value": "18b4a1ba-b72c-4ef3-bc0b-6c93b6b7491f",
+      "domain": "dev.d1x2fefh4glbva.amplifyapp.com",
+      "path": "/",
+      "expires": 1778292051.312494,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.594emb98hnb91e6qj20j3ih52l.18b4a1ba-b72c-4ef3-bc0b-6c93b6b7491f.refreshToken",
+      "value": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.nj-MxCO8y1dl1ysx03dRnEWHR5u_7WpLHrb4urnilzhyfsEHhS5nWkd5RR6zPgGumUw08STKLj9ItrnYAgokDfdOxLjtLHV0ay2Jizq2rin_R2gCgzi5VCIqnNGQh1XIT9wgrXsjhdAUHqHTcz3oqqcgGeIHcqU0HsTTe9Ld3bEzmpDR8At_FiNfIOW2_ylbbPENkA5U4YYhkW0qRDIgMrKbwKJPdjyf3AipTcyyxFiIkGWRRPujK5lEPZhyWfSi3zuAKDGIMMFCw_GQB1iW6KDNNV5L3vJbsZv0muZyJmPlSwdYD6CD-BAwLFj86sIo-auzbIv3EPdtKaqlnJYRQQ.nAm-2fJSCoczNcVu.D-naSUnhPYwdH-2e8BB1wOmCNbuIDlsz1byUnjNFy0IUH2n-cO1zdST5e5WaSYTR6KT-75XcHgxGxg3hwctCKu2PWJnIZcoDsH2Y6AJQ-5yO8Gytr3h21loC8gSI1PJrPLBtN5ebHaRDHRcrTXoQggv8KDFCwwE0FXZZcM2c73eTjoPNlpVf0uiFRh2NNRDShNDkNh0dz2A5BXzYxMZsR4xw1iH7XyqeVNeJ1ljetABWr3i4I-pgy9X-3T7ijCMtl0jPWvPT3bhLwhItBiP36S0BHk-55m3an9q6SajtRydcR6cNJZGV63If_8bdW95bjSGyP9xWfH-VxLYEVjuKZJUIQkLshnCqWGbsjjE6C_Yfz6VulG1QiDH0viYmCLOyoiPVe70Q9w59JjHpGv3ahUJWvdml2_K-tsgB-_fj60E-OlWDMI3F2Wxtz3oSjP8Y4YnnmQga1vSS897ZDmwXi-L-ccpskfOGCM-XTDaaNOO4g-kswCyeirAJJEDJiPXOSOX2GFkZSfl8KCS3jLksPn0f7pO9ZOgChPRMEpO6gySiOfUvKjyQQBwfhTfj6sr_TxLFOSYaTZAxw61YSMd6Iv1IUZatTIe6jsBJIgSTjjZ-LWDy2aVFiyyyW1C75xLqE4lcjgePZThgUkP7ohVvARbhNC2R2zwrf2-QlhKoS-GX62IikZ8lYDxyRXBtL8CBJ_YdRd_xJbdrKXZVPkVv3p_2MKfka8eUdgBTn16B2_kYK48LpKhNK9BBUOAOcyTXHcrdG1cbJ7GBGz-gYL5IhzzfdWupGil4gTEgv7oMPINb6cLwFtD9QpjUde8pYLsRAUUuPW4syv8u5f_kueMnl3jH4qGt5YQwwAoQ1r3gfj64K0J1JpSVQWiDtuEqeIv3LIQVe1F_pXFX5Dy_d8LCGkYYztSqj5n25SE_L85XKvVsVE2fP0XorBF5WYWsHccGJljmEKAsNFqKK_ZU5jhw7f2ykDEGfFdW5JELi7NtL_elKox1nizXxAVXp7OA6CAG3KXziSX-i-wGq-eHBQU6cjXvTCxFrcl9ab-u_mgvzRsbqNAUnUUBWGqzugqTGfAzren08cwlKizR4YTGA-p3qnCFyuQQLfAvo3xBDlHfc0UcdjJXht-dZt5fYSy3mRJtJ4KK8hi49XUF-qTKrnE9O6AeIoxycIklgYCblVmLobY7LlZ4xitw4oxstIbxwEILTTDG6hkY_NxG1DDrQPRTlpZ-EB3W26hG3_hQ_XxIRE5bUIyRRGzygb_a3NWsKKIsVPr7OqqTksSRTXUGmAnzRuhNqtOkmKjK4_BncFGW1DrK4tsGQ1n2qUUILd4t4Gj-YrTzy2wHY13TzQ.d-L_ATaQn6Rk-WvpToK8Iw",
+      "domain": "dev.d1x2fefh4glbva.amplifyapp.com",
+      "path": "/",
+      "expires": 1778292051.313696,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.594emb98hnb91e6qj20j3ih52l.18b4a1ba-b72c-4ef3-bc0b-6c93b6b7491f.signInDetails",
+      "value": "%7B%22loginId%22%3A%22keiichi.sakamoto%40pleap.jp%22%2C%22authFlowType%22%3A%22USER_SRP_AUTH%22%7D",
+      "domain": "dev.d1x2fefh4glbva.amplifyapp.com",
+      "path": "/",
+      "expires": 1778292051.314217,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "aid=10sk25zk14&rum=1&id=85b13980-ec62-43ec-9b90-8a02dbeea266&created=1746756048276&expire=1746756949310&logs=1",
+      "domain": "dev.d1x2fefh4glbva.amplifyapp.com",
+      "path": "/",
+      "expires": 1746756951,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.594emb98hnb91e6qj20j3ih52l.18b4a1ba-b72c-4ef3-bc0b-6c93b6b7491f.accessToken",
+      "value": "eyJraWQiOiJjQ3AyVnI0cCsrczdXY0N6aHF4b2hHVW9IdTZlbXhSbWY2SFdxMTFOb2pvPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIxOGI0YTFiYS1iNzJjLTRlZjMtYmMwYi02YzkzYjZiNzQ5MWYiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuYXAtbm9ydGhlYXN0LTEuYW1hem9uYXdzLmNvbVwvYXAtbm9ydGhlYXN0LTFfYlE2R3hQa1h0IiwiY2xpZW50X2lkIjoiNTk0ZW1iOThobmI5MWU2cWoyMGozaWg1MmwiLCJvcmlnaW5fanRpIjoiNGI2ZDQ0ZTEtNTA3Yy00N2VmLTg4ZWYtOTUyZGI0MGE2ODFmIiwiZXZlbnRfaWQiOiIzMDExOGJhOC1kNGZhLTRjMWItODgzMy05ZTU1ZWYwNzc0NjQiLCJ0b2tlbl91c2UiOiJhY2Nlc3MiLCJzY29wZSI6ImF3cy5jb2duaXRvLnNpZ25pbi51c2VyLmFkbWluIiwiYXV0aF90aW1lIjoxNzQ2NzU2MDQ5LCJleHAiOjE3NDY3NTk2NTEsImlhdCI6MTc0Njc1NjA1MSwianRpIjoiODc2MzU4MDItM2YxZS00MTQ0LWE4NzYtYTQzZGVmNjk1MDk1IiwidXNlcm5hbWUiOiIxOGI0YTFiYS1iNzJjLTRlZjMtYmMwYi02YzkzYjZiNzQ5MWYifQ.g7Q-ZNIj-agU6jAogRf22I-KLvXEg0tDesAgsK2zyzyoSrSKAf3NtcHb1xzYb3Rp17m7HTjdVNpxsYbQz2JK0dD8MkHeTLWLvR3mZnagWQ0OKGvQhUdXqOD0LEbbIZFde8r9IVd9Qako8G0bjFp-bY4xwm3skIddF9OD8wiyHAGRFxeQJ26fiAo15vD_Fqf7UXOeGzcTl1p9h2Lmi1Z788O7-7P37LGsu5oTX6mLJ4S9IfEyupb-fWbYJkfy1OLSC0nEIX6GQ8dRVcXLLFaYt7IVI2RXidOLS5I3hZE4fWBIoorVQKr_NYukKgQ7BfhjIzegcf0myQeB4q6bp2vXYw",
+      "domain": "dev.d1x2fefh4glbva.amplifyapp.com",
+      "path": "/",
+      "expires": 1778292051.312948,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.594emb98hnb91e6qj20j3ih52l.18b4a1ba-b72c-4ef3-bc0b-6c93b6b7491f.idToken",
+      "value": "eyJraWQiOiIyRzg4REErR1phU3lhTG1FV2JuXC9MT0tTd3JyWFEySW13b0JUbjgxeDNUND0iLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxOGI0YTFiYS1iNzJjLTRlZjMtYmMwYi02YzkzYjZiNzQ5MWYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiY3VzdG9tOmNsaW5pY19uYW1lIjoi44OG44K544OI5Yy755mCIiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLW5vcnRoZWFzdC0xX2JRNkd4UGtYdCIsImNvZ25pdG86dXNlcm5hbWUiOiIxOGI0YTFiYS1iNzJjLTRlZjMtYmMwYi02YzkzYjZiNzQ5MWYiLCJjdXN0b206d2hlcmVEaWRZb3VLbm93Ijoic25zIiwib3JpZ2luX2p0aSI6IjRiNmQ0NGUxLTUwN2MtNDdlZi04OGVmLTk1MmRiNDBhNjgxZiIsImF1ZCI6IjU5NGVtYjk4aG5iOTFlNnFqMjBqM2loNTJsIiwiZXZlbnRfaWQiOiIzMDExOGJhOC1kNGZhLTRjMWItODgzMy05ZTU1ZWYwNzc0NjQiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTc0Njc1NjA0OSwibmFtZSI6IuWdguacrOaBteS4gCIsImV4cCI6MTc0Njc1OTY1MSwiaWF0IjoxNzQ2NzU2MDUxLCJqdGkiOiJmMWFjY2MxMy05ZDYwLTQ0YzgtYWExMy01ZDI1ZjdiNjZkODEiLCJlbWFpbCI6ImtlaWljaGkuc2FrYW1vdG9AcGxlYXAuanAifQ.QYKoFd3ehZYbIsmnEQXO0ZdrVpcbHmiBMR9hqdU_p5SkFOuJIBBxy51X6LdDgowyFlcy21tGfgxKpcuXl4C92uyDCHzjZBH-85OVVbWsXsTUm60jG0FzOapSg4M2FUuIzJe6sUf1u9cIPEb6vrRe1TjYbr_W4L7r4gTjyplKyWotWEHIDmCCsXlOjO26910zFg5bQYycE_ECeEtOxJMzX1DwmsfiKoo3rPc7YF2BsZe-JbMfauycDzHHiKx78tk3kQTAk0DQxGOKhx2WRWZIxmqcfvjCa1mfznIgmcDKdGQykFHlidkN06zA6bRagaxiRasVWu6yEg0jHWGZVfV_3g",
+      "domain": "dev.d1x2fefh4glbva.amplifyapp.com",
+      "path": "/",
+      "expires": 1778292051.313348,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CognitoIdentityServiceProvider.594emb98hnb91e6qj20j3ih52l.18b4a1ba-b72c-4ef3-bc0b-6c93b6b7491f.clockDrift",
+      "value": "-216",
+      "domain": "dev.d1x2fefh4glbva.amplifyapp.com",
+      "path": "/",
+      "expires": 1778292051.314563,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
