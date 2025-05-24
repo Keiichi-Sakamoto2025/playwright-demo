@@ -5,17 +5,17 @@
       "value": "18b4a1ba-b72c-4ef3-bc0b-6c93b6b7491f",
       "domain": "dev.d1x2fefh4glbva.amplifyapp.com",
       "path": "/",
-      "expires": 1778294226.697518,
+      "expires": 1779334630.171877,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "CognitoIdentityServiceProvider.594emb98hnb91e6qj20j3ih52l.18b4a1ba-b72c-4ef3-bc0b-6c93b6b7491f.refreshToken",
-      "value": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.E-OI5fsc_RV2a9qAlRkswMOc4Vq9UOzACVBr29C7ijU4BTiGNOxTPl6cUtrrDXsHQKliMrrJNkZeZaDW49udD3n0zplJNlouy0oQeVAAcau00Gq352M8CJcl4Cn1JGrSAudIk-5NFv2kt3Joj9Lnyd_7PnLDBc1Dre0p6HnlP-TF2LPU4HuDFv92Q0Z3J9_AB48Eo9sMLov8iJwGGKiNe1Uxnl5c9IbeW0BZJ3F5GEd4pLtBDTxIcJOJr8eSrTxyHdTY3u5Nw65egTmkSPv2fmUlfAIyZXhVsPb-nbubcbExisqnODsVdgE4-BAukep2CrSzPtfd57a6McAruUf4yQ.roNfzkFWUKJoy8JE.DuuChiOw4rImwYC4HGY7AuUC7ET3WS_1tPvTA3FTXGdVFJgt9HTOcyIKm8Y89SzQ2iU-8VtAs5d2flYbSROIWe54GddlwuD8klDVNg2ORojSFiYmXH7qK5s9V3kE2r8XoaVpBWMRKHX1r1wvJtJkHzYncMc53yluuOClSJ9_VL2ghjpt-taiHrpy5xOsCY19M1nyrFomWPiFPVFmCpc9N_H39WrjBakhsjDow0vCFPu1DSUsgKG7wooYZ4voVi0cDLNqxlegIHNSfKNz-CXwkwMHfVLKTaPnb0F8BF29xYyupLtYMjZlZ9AJPJSNFK-9yyps5TsGfsL04gytvnxD2NOZJrA5hYDqeE9HT0IbosytJn_h0VIAz_PYrqueE7xCfoCpILv_J13mbsezbXLAXg3aiSitq-w2eBlqAwCW81t1BmptAsX1dg8lhtVeJkP_2bBy-uvIEBpbeV4qRr1m41-aIfgGIRKYImZ3UE5enW7oSJ8JXPCNazeusLOQ4z19IpuuG88Glz-qzpin29vSfY773V7uWlZUj0h-hy_9VcEKrl70Xw6k-LQdUxg9asvnjeOrbx1-1ddvG_AcmkFJdqbO8-f_XTFx0CkmqowqPK08SHTJ9FaUTrSO_ofTJ_UXe__NJabMQf38npbtDsCW14Pudq8EJ96rtfmIgIVsbrdwZq7CUfP8JeO1uijuGuKNYZe1wv9RfUmwjGSUuSYuh4P9p5TGdoVHIgqc68nmFagexNHFxCCYpJ8RaMr70fggS_hqUV6tmiGFf-asGimXpnIoegv4lg5y6T7KhCn5bJeVkVsZr-tePY8mx_0gDDoLGZkdWd7NSToBn6hfG1W_pqIy_XtDSODgUkkpU5ri8-_ymgOGWlhth2W9fKY-DOAaHNBseWLWL01_1hkha_YK2Kwm7r06xMlNPsz8zVlqoTFYV4VG5N35LYnXF1Z-CbEpRzirdYZZEUBnt3F7wBt6yDAjOXBAsdDswd0tA6bduRmkr9IqJjqymya_yAsYNO9lmjqcxgX5vfBmehYvl8rYoPMpJ0Tz-ALQmAnjbSdqgM_Li9WxGydhECa8PBY6Ub-xKIJfHnqvu7VSzKETqahrCZ3twMraUtpEkqLKrvK3K7WOwy2MJ7eIMy1PEuQcx1fXYfPJyVvwiaXU6AWjeQZcyMaKHI3vZaGdo4UMIB3yAeoNWhYkcEt3IRWzfeFNlWaRVGqJP6FHrE-xA47ly4NyoE-wdwhmt9S42pj5nltjKoIo5NAu3iDRP7wSoWY184tI_blbq4PGZDz3oC15YujBcb3DRriHb_KaXxw7oyV-p4wHwCXm9Xs9EVg6onxrg4UMPeqkKrmGXtNkYg.7zQZWRooMzFH6Gfm-QyX7w",
+      "value": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.TEKdXUI2_yMa3GKnnszhpyVessQn0abLX5kFyvQRhuRsU4sj-fv_xfLjKXbDPAgLF5vOIagGRBFYypnmW4Y_Za3mqBH3nPw2mo2rMtFHEnjT9Y4YtZKfj0pHw-7JoIBemyT8v8ph_X94dx9uuQ2oznxuRdGV5Es7kBwroGMZtl5IHrbwe_dADTETxGoPnMHaeosDq8GNv--TkQPlM18RFvcTXHYItsMI_wuaOdJ_t1MugYeK7fVsOPPDWtxXA6703QmNazFyQ70EY77HyLg6KxnOrlWSKR8-9h8lKHZcJcLpkpVkqOOlrNk4fYkZ9vLncPN0hosAUv382I30IJCPvg.ZjFjc7s279Ww1fQN.Dfo3RLE5twwGbbGAeqvJzjvJSV0qKt_rcHlnMJLEwiJxg9QTRV1sBGQPyXHSM2Uc10HeYQMzf4ySGs0rWwWP4TLQnxUFqQWKUEJgQtVfd4l6cCADFvJ-bmWbTrJBNVrRnRPDqc2TDpUlZiElkTHQ4lBtjK_hZbab6MnxPeYyeLkpWjsfD43h2s7L9Af2EdYUE3mnOmJqQvBbtF2-Di8X0rjPgdMUMrpEZFOQPY8HWxp-i1ghrmdwFMP3aDJT-cLZGh2fakddwiGCrumGmi3okgobV9iC9BF-OLooCV1ZjZNrRu2BrMH1tnnRU2UTmST1GVAKOHyaxxMOWpoQyfrpm3zujvUtTg7F4cIZ7vk-NL4FVa_iUuIIU1CMDV6Q53oH9YG5wnkFL-tYqKhbpS9aJUT4oSxpZZ5yGcJHukmnH-d_6FgvGD8lUGnq7BhmRk8QqgEwdlZyMwQptIzZSRRlR0CX7kre3-GOBr4cXeaD22WeLbF5WRke9aMJ3Neb5gpNnUWalj6ntC500W3lYA648uG4-1KBex3sRgCNkzKRaOOnGcuMAyWb6KMC4YzqzoqNDsgz8fel_3DHy61xlWm6BLM_a2Uas1wNvfJ4Lc9HXDH82bzRExPdi0_wF5ndmPqJY_Cwv6pmylfIIsTyHmQ-4wKuyZCzpAJdxuz89PUeQfgU5rA_mcZFDjiHsxh592XoM7MGo3UyvnsK3eHd6TDlTUzZDDaujTStk4JZSkPpcPzeJ3rdKM-ghdf5X7Wacm80xzYNtFgieVEERu817mNt3YegqwIwhCG50hgZScRUnMRVCvS_raesezTPi7rKCy_WRHu1ybA2lVjR5t9tDcrAqDv81w4PZVgumAGGJj9XtJJDqhn-PpSpYBEY_dyC8miwoROxTtMdc0SEyAVAjzBdUqZdJ3fwQw2RdcldsqfssTdCvqKLB8lDIWcZc3D2ngFflzUYNH_ZwZOXuLK9-R4dBkUbd63U_tW5v22guzyNkykLPMaf3F9aopRnoRMYOhhMX_j7u1RmNj6ak_mGM4w_s8Uq-NcT1XkowFWBoHg3iSATT3SC7MDTzZULFs-BJfLwx8dxMCO0Ovyh0S23a15y1dWlR95gjXBj8njWDS-lvMIEn7ExmvFPfwdpu0q0ydwh6VwOKGMEu6sjQkvAYnkzyBMrgWjAxVSD1ofjXOpTmBZ_K9vYRUuBm__P-OJdh7y_jCYBBuf726rIiH0jU0So6gUy_BYAxKAX7HSvxSXzuz2BjXALVS_ShvRinq9Tvb8YKX5jNk4UVw94ZkCd0jp2YQA0dlKhewRhEA3JPayso87_HfK_u0bxyvsCblRff7PiKrqhQLtsS-Gvww.feFwOZAl3X1_1bsv7TJDNg",
       "domain": "dev.d1x2fefh4glbva.amplifyapp.com",
       "path": "/",
-      "expires": 1778294226.698047,
+      "expires": 1779334630.173267,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -25,51 +25,61 @@
       "value": "%7B%22loginId%22%3A%22keiichi.sakamoto%40pleap.jp%22%2C%22authFlowType%22%3A%22USER_SRP_AUTH%22%7D",
       "domain": "dev.d1x2fefh4glbva.amplifyapp.com",
       "path": "/",
-      "expires": 1778294226.698179,
+      "expires": 1779334630.173943,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "_dd_s",
-      "value": "aid=iptvrplil3&rum=1&id=f500d8c4-3bbf-4489-84bc-93b81ccd4c01&created=1746758223528&expire=1746759124815&logs=1",
+      "value": "aid=g901d39ckp&rum=1&id=a8074b52-1bb3-4696-8b43-87e0d5894719&created=1747798626864&expire=1747799527883&logs=1",
       "domain": "dev.d1x2fefh4glbva.amplifyapp.com",
       "path": "/",
-      "expires": 1746759126,
+      "expires": 1747799529,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Strict"
     },
     {
       "name": "CognitoIdentityServiceProvider.594emb98hnb91e6qj20j3ih52l.18b4a1ba-b72c-4ef3-bc0b-6c93b6b7491f.accessToken",
-      "value": "eyJraWQiOiJjQ3AyVnI0cCsrczdXY0N6aHF4b2hHVW9IdTZlbXhSbWY2SFdxMTFOb2pvPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIxOGI0YTFiYS1iNzJjLTRlZjMtYmMwYi02YzkzYjZiNzQ5MWYiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuYXAtbm9ydGhlYXN0LTEuYW1hem9uYXdzLmNvbVwvYXAtbm9ydGhlYXN0LTFfYlE2R3hQa1h0IiwiY2xpZW50X2lkIjoiNTk0ZW1iOThobmI5MWU2cWoyMGozaWg1MmwiLCJvcmlnaW5fanRpIjoiMDg3ZDU1OTktMTk4MS00Zjc1LThlOWYtZWZhNTA3MzVjODBkIiwiZXZlbnRfaWQiOiI2YWY2MTE0Ni1lZTIxLTQ3Y2ItYTYwZC1hMTU0YTQ5NDI0YTciLCJ0b2tlbl91c2UiOiJhY2Nlc3MiLCJzY29wZSI6ImF3cy5jb2duaXRvLnNpZ25pbi51c2VyLmFkbWluIiwiYXV0aF90aW1lIjoxNzQ2NzU4MjI1LCJleHAiOjE3NDY3NjE4MjYsImlhdCI6MTc0Njc1ODIyNiwianRpIjoiYjg2MWNmODMtOTdiNS00YmM3LWI2ZjItZjEyZWQwMjM1NTZkIiwidXNlcm5hbWUiOiIxOGI0YTFiYS1iNzJjLTRlZjMtYmMwYi02YzkzYjZiNzQ5MWYifQ.IZFTHiCMXdKxhs-FD06PXYWu9QNNuBFJhDNWM3prMQfILN8twwskV208S5h0H4AUAk5j_rr68GvcW_724W-4_9d8lzqLsQCrxxKqeG3rPABqlpLKI6hqtJiMv1kIl32JsP8Co3iSZQCEPU2NOfj1Dm83CNK5Exl3hCS_8Og20kHqiXXVHhpXaCFcUxU_lR6m7akHqdufJRU8S86HwUPSrZb21oqCIhl8OOjkCMItQ9ya5F9bTFVzeMgCoLaXnZpetxaOy-LDiKm-yS8RQXVGM4rOsvnXYi4BTFfao1lehpGBxn9LUZ1Hu3HBQIXunU53-RuHWlfKNKHSbe2DE5HZcw",
+      "value": "eyJraWQiOiJjQ3AyVnI0cCsrczdXY0N6aHF4b2hHVW9IdTZlbXhSbWY2SFdxMTFOb2pvPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIxOGI0YTFiYS1iNzJjLTRlZjMtYmMwYi02YzkzYjZiNzQ5MWYiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuYXAtbm9ydGhlYXN0LTEuYW1hem9uYXdzLmNvbVwvYXAtbm9ydGhlYXN0LTFfYlE2R3hQa1h0IiwiY2xpZW50X2lkIjoiNTk0ZW1iOThobmI5MWU2cWoyMGozaWg1MmwiLCJvcmlnaW5fanRpIjoiNmU1MTRjZTUtNzc4ZC00YTM5LTg1MDItOWViYTQ3YjVjNzI5IiwiZXZlbnRfaWQiOiJhZmJjYmUwMy0wZmJmLTRmY2ItOTU1MS1iNjgyMGU2OGNlYWQiLCJ0b2tlbl91c2UiOiJhY2Nlc3MiLCJzY29wZSI6ImF3cy5jb2duaXRvLnNpZ25pbi51c2VyLmFkbWluIiwiYXV0aF90aW1lIjoxNzQ3Nzk4NjI4LCJleHAiOjE3NDc4MDIyMzAsImlhdCI6MTc0Nzc5ODYzMCwianRpIjoiYTgyMDFjYzAtNjIyNS00YzM5LWE4NGUtNDlmZTVlMzQ3ODY5IiwidXNlcm5hbWUiOiIxOGI0YTFiYS1iNzJjLTRlZjMtYmMwYi02YzkzYjZiNzQ5MWYifQ.eMKqKA_n0yzD1_AnV8562Y0ChbRY75xxwt0wAqYpMMesNaFwKlPoB41b_-Z11EKHIhPuPkKBACfXlFe_umYfmbkSncpoeYE2AJatCKId2nxlN1F4bQNze5DBuCtHdpPk_DKoj83o8V14RQ32Lq5PwJaHST2qWKzuAW1wFEvvGC5XUJ9s4hOKkt8l-rwpxD3CLjNOVWEgsuAZTV5ZXiescYkiGqC1RAcGvycmchryL3BPOLZP4mxKvN8qkbfPxa6kLIZS84pGNni40V6KkBH8tfHWn7TeywsOGGmBtIMReHQc6AL-R7l95ikX-QIwK4EBFxHDDoyL7V_WpjWGeJMthw",
       "domain": "dev.d1x2fefh4glbva.amplifyapp.com",
       "path": "/",
-      "expires": 1778294226.697657,
+      "expires": 1779334630.172198,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "CognitoIdentityServiceProvider.594emb98hnb91e6qj20j3ih52l.18b4a1ba-b72c-4ef3-bc0b-6c93b6b7491f.idToken",
-      "value": "eyJraWQiOiIyRzg4REErR1phU3lhTG1FV2JuXC9MT0tTd3JyWFEySW13b0JUbjgxeDNUND0iLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxOGI0YTFiYS1iNzJjLTRlZjMtYmMwYi02YzkzYjZiNzQ5MWYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiY3VzdG9tOmNsaW5pY19uYW1lIjoi44OG44K544OI5Yy755mCIiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLW5vcnRoZWFzdC0xX2JRNkd4UGtYdCIsImNvZ25pdG86dXNlcm5hbWUiOiIxOGI0YTFiYS1iNzJjLTRlZjMtYmMwYi02YzkzYjZiNzQ5MWYiLCJjdXN0b206d2hlcmVEaWRZb3VLbm93Ijoic25zIiwib3JpZ2luX2p0aSI6IjA4N2Q1NTk5LTE5ODEtNGY3NS04ZTlmLWVmYTUwNzM1YzgwZCIsImF1ZCI6IjU5NGVtYjk4aG5iOTFlNnFqMjBqM2loNTJsIiwiZXZlbnRfaWQiOiI2YWY2MTE0Ni1lZTIxLTQ3Y2ItYTYwZC1hMTU0YTQ5NDI0YTciLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTc0Njc1ODIyNSwibmFtZSI6IuWdguacrOaBteS4gCIsImV4cCI6MTc0Njc2MTgyNiwiaWF0IjoxNzQ2NzU4MjI2LCJqdGkiOiJiMzUyOWE1Ny1mZGJiLTRiNGYtOWY0Ny1jMjAyN2I1MTkzMmUiLCJlbWFpbCI6ImtlaWljaGkuc2FrYW1vdG9AcGxlYXAuanAifQ.AHRsjlzFYHZ8pWaKHYxwl4pG-eLWqSVTZ-ysRFI8TzvOROYhBEYnBSeWrOQ42uy9xdmcmtUVQ62YkHX1RwWFpmftVsXUXdYL-RNse06di7WdlBTb9nw0s99PYkm9p4ZG9qu6it93vPnjbkPG80SECUHND4G1RSmK71Ouf3sVLK64Harn1voQlckmlKc5QT6pgdqwlOOIlCUVM-4JWOXAYA2DFajVnaKwdrmNH3VaNIHhuKwk02quiHEjdia7syc-1L_WdXstX8sdRHEY91Wmtv4J9rC-4b-JsNJtKLdHAEr0BOgAdTR4YpgP-AyQ5HcMWW9W9PNvsaMGRTNHhPbAYw",
+      "value": "eyJraWQiOiIyRzg4REErR1phU3lhTG1FV2JuXC9MT0tTd3JyWFEySW13b0JUbjgxeDNUND0iLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxOGI0YTFiYS1iNzJjLTRlZjMtYmMwYi02YzkzYjZiNzQ5MWYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiY3VzdG9tOmNsaW5pY19uYW1lIjoi44OG44K544OI5Yy755mCIiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLW5vcnRoZWFzdC0xX2JRNkd4UGtYdCIsImNvZ25pdG86dXNlcm5hbWUiOiIxOGI0YTFiYS1iNzJjLTRlZjMtYmMwYi02YzkzYjZiNzQ5MWYiLCJjdXN0b206d2hlcmVEaWRZb3VLbm93Ijoic25zIiwib3JpZ2luX2p0aSI6IjZlNTE0Y2U1LTc3OGQtNGEzOS04NTAyLTllYmE0N2I1YzcyOSIsImF1ZCI6IjU5NGVtYjk4aG5iOTFlNnFqMjBqM2loNTJsIiwiZXZlbnRfaWQiOiJhZmJjYmUwMy0wZmJmLTRmY2ItOTU1MS1iNjgyMGU2OGNlYWQiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTc0Nzc5ODYyOCwibmFtZSI6IuWdguacrOaBteS4gCIsImV4cCI6MTc0NzgwMjIzMCwiaWF0IjoxNzQ3Nzk4NjMwLCJqdGkiOiJiY2IzMjBkMC1hNzFmLTQyNjktYTcxZC04MTBiZjAyYjg0MDgiLCJlbWFpbCI6ImtlaWljaGkuc2FrYW1vdG9AcGxlYXAuanAifQ.HoKfxA-FqHxc9YI6kYgQWU79MZAcI9PCY5KpylsC_3IRFr60yTVe7KfF7kD5KCZzPH5kN6s_yyJ0BcSF41U4DNBVslcfmFSookj_2dmZ3KdmeuTn5jpEImjFaBNnWCXJQ0pzps3NJGaG5PEsk4EYopTa16vmNWS9-AenFfVPKs1THwpiDg9hFrGUagB7nRzuxkX3upuHhzrnrovQZeVzy3k8PgetKK61vyVks3JmbmTdyqFafgIPa_DntiPB03wglyjGhRP7DlY3jOkp0gocU-uDMQPrZbUZH4S4CKz7BDquWaRA48BXUz-UHoVXMJOY1MS-4sc_GEyNFNeIVkFusA",
       "domain": "dev.d1x2fefh4glbva.amplifyapp.com",
       "path": "/",
-      "expires": 1778294226.697795,
+      "expires": 1779334630.172763,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "CognitoIdentityServiceProvider.594emb98hnb91e6qj20j3ih52l.18b4a1ba-b72c-4ef3-bc0b-6c93b6b7491f.clockDrift",
-      "value": "-619",
+      "value": "-60",
       "domain": "dev.d1x2fefh4glbva.amplifyapp.com",
       "path": "/",
-      "expires": 1778294226.698464,
+      "expires": 1779334630.174671,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
     }
   ],
-  "origins": []
+  "origins": [
+    {
+      "origin": "https://dev.d1x2fefh4glbva.amplifyapp.com",
+      "localStorage": [
+        {
+          "name": "medimo-settings",
+          "value": "{\"state\":{\"resizePanelSize\":{\"width\":786.09375,\"height\":688},\"defaultMicrophone\":null,\"selectedMicrophoneId\":null,\"isInputNumberModeActivated\":false,\"outputMethod\":\"COPY\",\"isOutputWithTitle\":false,\"transcriber\":\"whisper\",\"isInputApInfoActivated\":false,\"isAutomatedTransitionToStandardPlanEnabled\":false,\"isRecordingStatusVisible\":true,\"isRecordingStatusTitleVisible\":true,\"readNotificationIds\":[],\"isAutoCopyEnabled\":true},\"version\":0}"
+        }
+      ]
+    }
+  ]
 }
