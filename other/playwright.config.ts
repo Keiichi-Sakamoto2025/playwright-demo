@@ -10,7 +10,7 @@ export default defineConfig({
   retries: 0,
 
   use: {
-    baseURL: 'https://dev.d1x2fefh4glbva.amplifyapp.com',
+    baseURL: 'https://dev.d5q9i5ebfuc1x.amplifyapp.com/',
     trace: 'on-first-retry',
   },
 
