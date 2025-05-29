@@ -27,9 +27,6 @@ test('ログインできること', async ({ page }) => {
   
     // h1要素が存在するか確認
     const h1Count = await page.locator('h1').count();
-
-    //テスト実行結果のスクリーンショット確認
-    await page.screenshot({ path: 'screenshot.png', fullPage: true });
     
     if (h1Count > 0) {
       // h1要素が存在する場合、そのテキストを確認
