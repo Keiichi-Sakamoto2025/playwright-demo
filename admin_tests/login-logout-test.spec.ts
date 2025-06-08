@@ -19,4 +19,12 @@ test('ログインできること + プロンプト確認', async ({ page }) => 
 
   await expect(page.locator('text=坂本恵一テスト医療')).toBeVisible({ timeout: 10000 });
 
+   // ログアウトボタンをクリック
+   await page.click('button:has-text("ログアウト")');
+ 
+   // ログアウト後にリダイレクトされるパスを確認（例：ログイン画面）
+   await expect(page).toHaveURL(/.*amplifyapp.com*/);
+ 
+   // ログアウト後に「ログイン」ボタンやログインフォームが表示されているか確認
+   await expect(page.locator('h1:text("ログイン")')).toBeVisible();
 });
